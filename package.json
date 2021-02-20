@@ -1,24 +1,25 @@
 {
-  "name": "test-project",
-  "version": "1.0.0",
-  "description": "test-project",
-  "main": "index.js",
-  "dependencies": {},
-  "devDependencies": {
-    "standard-version": "^9.1.1"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kokjwdev/test-project.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kokjwdev/test-project/issues"
-  },
-  "homepage": "https://github.com/kokjwdev/test-project#readme"
+    "name": "test-project",
+    "version": "1.1.0",
+    "description": "test-project",
+    "main": "index.js",
+    "dependencies": {},
+    "devDependencies": {
+        "standard-version": "^9.1.1"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "release": "standard-version"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kokjwdev/test-project.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kokjwdev/test-project/issues"
+    },
+    "homepage": "https://github.com/kokjwdev/test-project#readme"
 }
