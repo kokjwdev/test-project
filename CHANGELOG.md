@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.3](https://github.com/kokjwdev/test-project/compare/v1.1.2...v1.1.3) (2021-02-20)
+
+
+### Features
+
+* add file user controller ([9a2bd82](https://github.com/kokjwdev/test-project/commit/9a2bd82d88625274a6b9f5e2a8aac6007e50f13c))
+* add function book  ([bce1212](https://github.com/kokjwdev/test-project/commit/bce12123853dbce22382a59f9cfd4c6bbbf872c4))
+
+
+### Bug Fixes
+
+* readme.md ([a8c4b99](https://github.com/kokjwdev/test-project/commit/a8c4b9967ad5268d23e6588169708419480aba5e))
+
 ### [1.1.2](https://github.com/kokjwdev/test-project/compare/v1.1.1...v1.1.2) (2021-02-20)
 
 
