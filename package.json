@@ -3,12 +3,13 @@
     "version": "1.1.1",
     "description": "test-project",
     "main": "index.js",
-    "dependencies": {},
+    "dependencies": {
+        "express": "^4.17.1"
+    },
     "devDependencies": {
         "standard-version": "^9.1.1"
     },
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
         "release-major": "standard-version --release-as major",
         "release-minor": "standard-version --release-as minor",
         "release-patch": "standard-version --release-as patch"
