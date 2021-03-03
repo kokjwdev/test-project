@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.4](https://github.com/kokjwdev/test-project/compare/v1.1.3...v1.1.4) (2021-03-03)
+
+
+### Bug Fixes
+
+* Update git and package-lock.json ([447b2d0](https://github.com/kokjwdev/test-project/commit/447b2d0dd7712d490967033dd23ebd61aa5097a3))
+
 ### [1.1.3](https://github.com/kokjwdev/test-project/compare/v1.1.2...v1.1.3) (2021-02-20)
 
 
